@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">damiankocjan-ui</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="task_name">Task name</string>
+    <string name="create_task">Create task</string>
+    <string name="remove_task">X</string>
+    <string name="login_error">Invalid email or password</string>
+</resources>
